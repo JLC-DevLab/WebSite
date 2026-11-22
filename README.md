@@ -1,6 +1,6 @@
 # WebSite · Base Gatsby
 
-Repositorio de **UlysesX12** basado en Gatsby Default Starter. Conserva una base de Gatsby 4 y React 17 con páginas y componentes de ejemplo.
+Repositorio de **JLC-DevLab** basado en Gatsby Default Starter. Conserva una base de Gatsby 4 y React 17 con páginas y componentes de ejemplo.
 
 **[Explorar el catálogo de proyectos públicos](docs/PROYECTOS.md)**
 
