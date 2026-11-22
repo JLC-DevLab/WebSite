@@ -4,9 +4,9 @@
 
 ### Software Engineering · Cybersecurity · Digital Forensics
 
-**Senior Software Developer | C# · .NET · SQL Server · Python · Java**
+**Senior Software Developer | Cybersecurity Specialist**
 
-*Building reliable applications, practical automation and security-focused tools.*
+*Building reliable software, practical solutions and security-focused projects.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-JLC--DevLab-172C42?style=for-the-badge&logo=github)](https://github.com/JLC-DevLab)
 
@@ -16,38 +16,28 @@
 
 ## Sobre mí / About me
 
-Desarrollador de software con experiencia profesional en aplicaciones empresariales, integraciones de datos, sistemas y software médico. Trabajo con **C#, ASP.NET, WPF, SQL Server, Java, Python y estándares DICOM**, combinando desarrollo de producto con automatización y ciberseguridad.
+Desarrollador de software con experiencia en el diseño y evolución de aplicaciones, soluciones empresariales, integración de sistemas y proyectos de ciberseguridad. Me interesa abordar los problemas desde su arquitectura hasta su implementación, con atención a la calidad, la seguridad, la mantenibilidad y la experiencia de uso.
 
-Software developer focused on business applications, data integration, medical software and secure engineering.
+Software engineer focused on designing reliable solutions, improving existing systems and building security-conscious applications. I work across different areas of software development, adapting the approach to each project's needs.
 
 ## Proyectos destacados / Selected work
 
-| Proyecto | Descripción / Description | Tecnologías |
-| --- | --- | --- |
-| [KRONOS V2.0](https://github.com/JLC-DevLab/KRONOS-V2.0) | Herramientas y laboratorio de análisis forense digital | C#, .NET, Python, Linux |
-| [BurgerWebApp](https://github.com/JLC-DevLab/BurgerWebApp) | Experiencia web y prototipo de gestión de pedidos para restauración | Astro, Tailwind |
-| [FoodOnTheGo](https://github.com/JLC-DevLab/FoodOnTheGo.github.io) | Proyecto de fin de grado: app Android de pedidos a domicilio. Código Android original aún no publicado | Android |
-| [System-Cars](https://github.com/JLC-DevLab/System-Cars) | Ejercicio académico de ventas de vehículos | Java |
+| Proyecto | Descripción / Description |
+| --- | --- |
+| [KRONOS V2.0](https://github.com/JLC-DevLab/KRONOS-V2.0) | Laboratorio y herramientas para análisis forense digital |
+| [BurgerWebApp](https://github.com/JLC-DevLab/BurgerWebApp) | Experiencia web y prototipo de gestión de pedidos |
+| [FoodOnTheGo](https://github.com/JLC-DevLab/FoodOnTheGo.github.io) | Proyecto de fin de grado: aplicación para pedir comida a domicilio. El código original aún no está publicado |
+| [System-Cars](https://github.com/JLC-DevLab/System-Cars) | Ejercicio académico de gestión de ventas de vehículos |
 
-> **Proyectos privados en desarrollo:** FaroVoyager (experiencia espacial interactiva) y CocheClaro (herramienta orientativa de revisión precompra). Se publicarán cuando corresponda y superen la revisión técnica y de seguridad.
+> **En desarrollo:** FaroVoyager y CocheClaro. Ambos repositorios se mantienen privados mientras continúan sus revisiones y decisiones de publicación.
 
-## Stack técnico / Technical stack
+## Mi enfoque / How I work
 
-**Backend & Desktop:** C# · .NET · ASP.NET · WPF · Java · Python
-
-**Datos e interoperabilidad:** SQL Server · SQL · XML · DICOM
-
-**Seguridad y operaciones:** Linux · Análisis forense · Seguridad de sistemas · Automatización
-
-**Web:** TypeScript · JavaScript · Astro · Next.js
-
-## Principios de trabajo
-
-- **Código verificable:** documentación, trazabilidad y pruebas proporcionadas al alcance real.
-- **Seguridad desde el diseño:** validar entradas, proteger secretos y aplicar permisos mínimos.
-- **Interoperabilidad:** soluciones que integren aplicaciones, servicios y datos con criterio técnico.
-- **Autoría transparente:** distinguir proyectos propios, plantillas y contribuciones de terceros.
+- **Ingeniería con criterio:** soluciones mantenibles, comprensibles y orientadas a necesidades reales.
+- **Seguridad integrada:** atención a la protección de datos, la validación y el diseño responsable.
+- **Mejora continua:** revisar, automatizar, documentar y perfeccionar.
+- **Transparencia:** distinguir entre proyectos terminados, prototipos y desarrollos en evolución.
 
 ---
 
-<div align="center"><sub>Developed by JLC · © 2026 · All rights reserved where applicable. Third-party licenses remain unchanged.</sub></div>
+<div align="center"><sub>JLC DevLab · Software Engineering & Cybersecurity</sub></div>
